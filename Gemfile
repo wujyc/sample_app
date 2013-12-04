@@ -4,6 +4,8 @@ gem 'rails', '3.2.13'
 gem 'pg', '0.15.1'
 group :development do
   gem 'rspec-rails','2.13.1'
+  gem 'guard-rspec','2.5.0'
+  gem 'guard-spork', '1.5.0'
 end
 
 group :test do

@@ -4,3 +4,9 @@ development:
   username: wujyc
   password: 163163
   database: sample_app
+test:
+  adapter: postgresql
+  host: localhost
+  username: wujyc
+  password: 163163
+  database: sample_app
